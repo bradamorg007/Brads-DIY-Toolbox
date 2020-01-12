@@ -1,6 +1,8 @@
 
 # CV2 SETUP GUIDE!!!!
 
+# MAC 
+
 Video Guide : ``` https://www.youtube.com/watch?v=iluST-V757A ```
 
 Text Guide follows with vid: ``` https://www.codingforentrepreneurs.com/blog/opencv-python-web-camera-quick-test/ ```
@@ -12,3 +14,5 @@ Important folder Paths:
 This is for the global distribution of python on my machine
 Guide shows how to do it for virtual environments
 ``` /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages ```
+
+# Windows
