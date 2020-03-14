@@ -4,3 +4,5 @@ Might be worth using this or building a component myself. https://medium.com/@al
 Lazy Loading using Intersection Observer BEST WAY TO DO IT:
 https://www.youtube.com/watch?v=GVDiw3lAyp0&fbclid=IwAR3eHXoY2N36MRP0Oq2K1-75XVLBioIfz2H_RiPVPH3BDRrU06HdhtixHHI
 
+# Using Multiple UseContexts with useReducer or useState
+https://www.youtube.com/watch?v=StABs9JxeNE
