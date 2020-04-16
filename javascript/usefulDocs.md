@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=GVDiw3lAyp0&fbclid=IwAR3eHXoY2N36MRP0Oq2K1-75XVL
 
 # Using Multiple UseContexts with useReducer or useState
 https://www.youtube.com/watch?v=StABs9JxeNE
+
+# 6 Box Shadows settings
+https://codepen.io/sdthornton/pen/wBZdXq
