@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=StABs9JxeNE
 
 # 6 Box Shadows settings
 https://codepen.io/sdthornton/pen/wBZdXq
+
+# Google Material Design Ripple Effect
+https://codepen.io/finnhvman/pen/jLXKJw
