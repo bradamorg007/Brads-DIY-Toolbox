@@ -12,3 +12,6 @@ https://codepen.io/sdthornton/pen/wBZdXq
 
 # Google Material Design Ripple Effect
 https://codepen.io/finnhvman/pen/jLXKJw
+
+# How to add Your own font styles to a react app
+http://skyentific.me/adding-fonts-to-create-react-app/
